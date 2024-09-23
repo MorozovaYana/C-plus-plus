@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int task2() {
+int main() {
     
     double a, b, y;
     
