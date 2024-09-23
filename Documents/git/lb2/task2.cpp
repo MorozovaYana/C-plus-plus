@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int task1(){
+int main(){
     
     float x, y ;
      
