@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include <climits> // Для INT_MIN, если понадобится
+#include <climits> 
 
 using namespace std;
 
@@ -25,7 +25,7 @@ int main() {
    }
    cout <<  "\n";
 
-   // Шукаємо перший нульовий елемент
+   
    int index = -1;
    for (int i = 0; i < size; ++i) {
        if (arr[i] == 0) {
